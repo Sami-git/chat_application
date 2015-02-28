@@ -1,2 +1,2 @@
 # chat_application
-Client-Server chat application based on Qt framework
+Client-Server chat application based on Qt framework.
